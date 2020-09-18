@@ -27,7 +27,7 @@
 }
 
  a { 
-    font-family: 'Lato', sans-serif;
+    font-family:  'Bungee Outline', cursive;
      color:#b3aca7;
      width: 100%;
      display: block;
@@ -132,6 +132,7 @@ h1 {
 }
 
 #Big {
+    font-family: 'Bungee Outline', cursive;
 
 }
 
